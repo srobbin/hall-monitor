@@ -1,6 +1,6 @@
 {
   "name": "School Sanity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Helps your kids stay focused during homeschooling. Blocks general YouTube access, but still allows individual videos to be watched.",
   "manifest_version": 2,
   "icons": {
@@ -15,5 +15,8 @@
       "matches": ["https://*.youtube.com/*"],
       "run_at": "document_end"
     }
+  ],
+  "permissions": [
+    "activeTab"
   ]
 }
