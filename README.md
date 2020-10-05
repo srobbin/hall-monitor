@@ -1,4 +1,4 @@
-# School Sanity
+# Hall Monitor
 
 A simple Chrome extension that helps keep kids focused during school.
 
